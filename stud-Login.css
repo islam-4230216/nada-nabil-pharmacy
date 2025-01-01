@@ -103,8 +103,10 @@
 .Quick-access-p{
     text-align: center;
     font-size: 22px;
+    font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #7a287b;
+
 
 
 }
