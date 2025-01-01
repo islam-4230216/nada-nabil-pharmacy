@@ -70,8 +70,8 @@
     color: black;
     border-radius: 20px;
     border: 1px solid rgba(17, 34, 51, 0.521);
-    width: 500px;
-    height: 650px;
+    width: 600px;
+    height: 750px;
 }
 .Quick-access-link:hover{
     transform:scale(1.050);
