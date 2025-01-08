@@ -14,8 +14,11 @@
 }
 #dropdown-item{
     text-align: left;
-    font-size:large;
+    font-size:25px;
     margin-top: 10px;
+    width: 400px;
+    
+
     
 
 }
